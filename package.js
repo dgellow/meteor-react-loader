@@ -14,9 +14,9 @@ Npm.depends({
 });
 
 Package.onUse(function(api) {
-    api.use('reactjs:react@0.2.1', 'client');
+    api.use('reactjs:react@0.2.1');
     api.addFiles([
         pathSpin + 'spin.js',
         pathReactLoader + 'lib/react-loader.js'
-    ], 'client');
+    ]);
 });
