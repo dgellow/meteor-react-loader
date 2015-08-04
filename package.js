@@ -3,7 +3,7 @@ var pathReactLoader = '.npm/package/node_modules/react-loader/',
 
 Package.describe({
     summary: 'A react loader based on spin.js',
-    version: '0.0.4',
+    version: '0.0.5',
     name: 'dgellow:react-loader',
     documentation: 'README.md',
     git: 'https://github.com/dgellow/meteor-react-loader.git'
