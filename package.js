@@ -18,5 +18,5 @@ Package.onUse(function(api) {
     api.addFiles([
         pathSpin + 'spin.js',
         pathReactLoader + 'lib/react-loader.js'
-    ]);
+    ], 'client');
 });
