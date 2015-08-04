@@ -5,6 +5,7 @@ Defines a react-loader component under the global name Loader.
 Install the package:
 
 ```
+meteor add react // Or whatever flavor of React you want
 meteor add dgellow:react-loader
 ```
 In your client code:
